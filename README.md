@@ -7,3 +7,4 @@
 # running
 ![gambar](ss4.png)
 # flowchart
+![gambar](ss5.png)
